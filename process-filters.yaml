@@ -1,0 +1,1001 @@
+Image-21388:
+  ID: 21388
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Program Files (x86)\Common Files\microsoft shared\ink\TabTip32.exe'
+  Context: 'Windows: Touch Keyboard and Handwriting Panel Helper'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-27479:
+  ID: 27479
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\System32\TokenBrokerCookies.exe'
+  Context: 'Windows: SSO sign-in assistant for MicrosoftOnline.com'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-15468:
+  ID: 15468
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\System32\plasrv.exe'
+  Context: 'Windows: Performance Logs and Alerts DCOM Server'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-23827:
+  ID: 23827
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\System32\wifitask.exe'
+  Context: 'Windows: Wireless Background Task'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-5132:
+  ID: 5132
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\CompatTelRunner.exe'
+  Context: 'Windows: Customer Experience Improvement'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-24984:
+  ID: 24984
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\PrintIsolationHost.exe'
+  Context: 'Windows: Printing'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-9270:
+  ID: 9270
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\SppExtComObj.Exe'
+  Context: 'Windows: KMS activation'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-6366:
+  ID: 6366
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\audiodg.exe'
+  Context: 'Windows: Launched constantly'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-23122:
+  ID: 23122
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\conhost.exe'
+  Context: 'Windows: Command line interface host process'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-511:
+  ID: 511
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\mobsync.exe'
+  Context: 'Windows: Network file syncing'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-30469:
+  ID: 30469
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\musNotification.exe'
+  Context: 'Windows: Update pop-ups'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-27163:
+  ID: 27163
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\musNotificationUx.exe'
+  Context: 'Windows: Update pop-ups'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-26903:
+  ID: 26903
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\powercfg.exe'
+  Context: 'Microsoft:Power configuration management'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-9261:
+  ID: 9261
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\sndVol.exe'
+  Context: 'Windows: Volume control'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-2087:
+  ID: 2087
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\sppsvc.exe'
+  Context: 'Windows: Software Protection Service'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-28903:
+  ID: 28903
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\wbem\WmiApSrv.exe'
+  Context: 'Windows: WMI performance adapter host process'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-25677:
+  ID: 25677
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorsvw.exe'
+  Context: 'Microsoft:DotNet'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-20331:
+  ID: 20331
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe'
+  Context: 'Microsoft:DotNet'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-11956:
+  ID: 11956
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Windows\Microsoft.Net\Framework64\v3.0\WPF\PresentationFontCache.exe'
+  Context: 'Windows: Font cache service'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-30591:
+  ID: 30591
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Program Files\Microsoft Office\Office16\MSOSYNC.EXE'
+  Context: 'Microsoft:Office: Background process for SharePoint/Office365 connectivity'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-3047:
+  ID: 3047
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Program Files (x86)\Microsoft Office\Office16\MSOSYNC.EXE'
+  Context: 'Microsoft:Office: Background process for SharePoint/Office365 connectivity'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-27530:
+  ID: 27530
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Program Files\Common Files\Microsoft Shared\OfficeSoftwareProtectionPlatform\OSPPSVC.EXE'
+  Context: 'Microsoft:Office: Licensing service'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-6964:
+  ID: 6964
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Program Files\Microsoft Office\Office16\msoia.exe'
+  Context: 'Microsoft:Office: Telemetry collector'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-21629:
+  ID: 21629
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Program Files (x86)\Microsoft Office\root\Office16\officebackgroundtaskhandler.exe'
+  Context: 'C:\Program Files (x86)\Microsoft Office\root\Office16\officebackgroundtaskhandler.exe'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-22383:
+  ID: 22383
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe'
+  Context: 'Microsoft:Office: Background process'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-9082:
+  ID: 9082
+  TargetField: 'Image'
+  Condition: 'is'
+  Pattern: 'C:\Program Files\Windows Media Player\wmpnscfg.exe'
+  Context: 'Windows: Windows Media Player Network Sharing Service Configuration Application'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-23514:
+  ID: 23514
+  TargetField: 'Image'
+  Condition: 'contains'
+  Pattern: ':\Program Files\Splunk\bin\'
+  Context: 'Splunk: Very noisy if using Universal Forwarders'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-4825:
+  ID: 4825
+  TargetField: 'Image'
+  Condition: 'contains'
+  Pattern: ':\Program Files\SplunkUniversalForwarder\bin\'
+  Context: 'Splunk: Very noisy if using Universal Forwarders'
+  Source: 'github.com/Neo23x0/sysmon-config'
+Image-30783:
+  ID: 30783
+  TargetField: 'Image'
+  Condition: 'begin with'
+  Pattern: 'C:\Program Files\Microsoft Monitoring Agent\'
+  Context: 'C:\Program Files\Microsoft Monitoring Agent\'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentImage-21214:
+  ID: 21214
+  TargetField: 'ParentImage'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\SearchIndexer.exe'
+  Context: 'Windows:Search: Launches many uninteresting sub-processes'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentImage-9353:
+  ID: 9353
+  TargetField: 'ParentImage'
+  Condition: 'is'
+  Pattern: 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\mscorsvw.exe'
+  Context: 'Microsoft:DotNet'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentImage-9859:
+  ID: 9859
+  TargetField: 'ParentImage'
+  Condition: 'is'
+  Pattern: 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe'
+  Context: 'Microsoft:DotNet'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentImage-12942:
+  ID: 12942
+  TargetField: 'ParentImage'
+  Condition: 'is'
+  Pattern: 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorsvw.exe'
+  Context: 'Microsoft:DotNet'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentImage-25632:
+  ID: 25632
+  TargetField: 'ParentImage'
+  Condition: 'is'
+  Pattern: 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe'
+  Context: 'Microsoft:DotNet: Spawns thousands of ngen.exe processes'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentImage-9090:
+  ID: 9090
+  TargetField: 'ParentImage'
+  Condition: 'is'
+  Pattern: 'C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeClickToRun.exe'
+  Context: 'Microsoft:Office: Background process'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentImage-6452:
+  ID: 6452
+  TargetField: 'ParentImage'
+  Condition: 'is'
+  Pattern: 'C:\Program Files\Common Files\Microsoft Shared\ClickToRun\OfficeC2RClient.exe'
+  Context: 'Microsoft:Office: Background process'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentImage-31763:
+  ID: 31763
+  TargetField: 'ParentImage'
+  Condition: 'is'
+  Pattern: 'C:\Program Files\Microsoft Monitoring Agent\MonitoringHost.exe'
+  Context: 'C:\Program Files\Microsoft Monitoring Agent\MonitoringHost.exe'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentImage-21839:
+  ID: 21839
+  TargetField: 'ParentImage'
+  Condition: 'is'
+  Pattern: 'C:\Program Files\Microsoft Monitoring Agent\Agent\HealthService.exe'
+  Context: 'C:\Program Files\Microsoft Monitoring Agent\Agent\HealthService.exe'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-5226:
+  ID: 5226
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: '"C:\Windows\system32\cscript.exe" /nologo "MonitorKnowledgeDiscovery.vbs"'
+  Context: '"C:\Windows\system32\cscript.exe" /nologo "MonitorKnowledgeDiscovery.vbs"'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-9447:
+  ID: 9447
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\wermgr.exe -upload'
+  Context: 'Windows:Windows error reporting/telemetry'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-19038:
+  ID: 19038
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\SearchIndexer.exe /Embedding'
+  Context: 'Windows: Search Indexer'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-4712:
+  ID: 4712
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\windows\system32\wermgr.exe -queuereporting'
+  Context: 'Windows:Windows error reporting/telemetry'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-5406:
+  ID: 5406
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: '\??\C:\Windows\system32\autochk.exe *'
+  Context: 'Microsoft:Bootup: Auto Check Utility'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-3415:
+  ID: 3415
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: '\SystemRoot\System32\smss.exe'
+  Context: 'Microsoft:Bootup: Windows Session Manager'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-23400:
+  ID: 23400
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\System32\RuntimeBroker.exe -Embedding'
+  Context: 'Windows:Apps permissions [ https://fossbytes.com/runtime-broker-process-windows-10/ ]'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-16983:
+  ID: 16983
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\WINDOWS\system32\devicecensus.exe UserCxt'
+  Context: 'C:\WINDOWS\system32\devicecensus.exe UserCxt'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-25501:
+  ID: 25501
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\System32\usocoreworker.exe -Embedding'
+  Context: 'C:\Windows\System32\usocoreworker.exe -Embedding'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-28934:
+  ID: 28934
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k appmodel -s StateRepository'
+  Context: 'C:\Windows\system32\svchost.exe -k appmodel -s StateRepository'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-1243:
+  ID: 1243
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k appmodel -p -s camsvc'
+  Context: 'C:\Windows\system32\svchost.exe -k appmodel -p -s camsvc'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-27620:
+  ID: 27620
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k appmodel'
+  Context: 'Windows 10'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-761:
+  ID: 761
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k appmodel -p -s tiledatamodelsvc'
+  Context: 'C:\Windows\system32\svchost.exe -k appmodel -p -s tiledatamodelsvc'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-19249:
+  ID: 19249
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k camera -s FrameServer'
+  Context: 'C:\Windows\system32\svchost.exe -k camera -s FrameServer'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-9722:
+  ID: 9722
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k dcomlaunch -s LSM'
+  Context: 'C:\Windows\system32\svchost.exe -k dcomlaunch -s LSM'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-13166:
+  ID: 13166
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k dcomlaunch -s PlugPlay'
+  Context: 'C:\Windows\system32\svchost.exe -k dcomlaunch -s PlugPlay'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-19274:
+  ID: 19274
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k defragsvc'
+  Context: 'Windows defragmentation'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-2825:
+  ID: 2825
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k devicesflow -s DevicesFlowUserSvc'
+  Context: 'C:\Windows\system32\svchost.exe -k devicesflow -s DevicesFlowUserSvc'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-29416:
+  ID: 29416
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k imgsvc'
+  Context: 'Microsoft:The Windows Image Acquisition Service'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-21346:
+  ID: 21346
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localService -s EventSystem'
+  Context: 'C:\Windows\system32\svchost.exe -k localService -s EventSystem'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-5193:
+  ID: 5193
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localService -s bthserv'
+  Context: 'C:\Windows\system32\svchost.exe -k localService -s bthserv'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-16414:
+  ID: 16414
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k LocalService -p -s BthAvctpSvc'
+  Context: 'C:\Windows\system32\svchost.exe -k LocalService -p -s BthAvctpSvc'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-18076:
+  ID: 18076
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localService -s nsi'
+  Context: 'C:\Windows\system32\svchost.exe -k localService -s nsi'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-19596:
+  ID: 19596
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localService -s w32Time'
+  Context: 'C:\Windows\system32\svchost.exe -k localService -s w32Time'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-28079:
+  ID: 28079
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localServiceAndNoImpersonation'
+  Context: 'Windows: Network services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-8585:
+  ID: 8585
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localServiceAndNoImpersonation -p'
+  Context: 'Windows: Network services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-6309:
+  ID: 6309
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localServiceNetworkRestricted -s Dhcp'
+  Context: 'Windows: Network services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-20256:
+  ID: 20256
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localServiceNetworkRestricted -s EventLog'
+  Context: 'C:\Windows\system32\svchost.exe -k localServiceNetworkRestricted -s EventLog'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-331:
+  ID: 331
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localServiceNetworkRestricted -s TimeBrokerSvc'
+  Context: 'C:\Windows\system32\svchost.exe -k localServiceNetworkRestricted -s TimeBrokerSvc'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-23516:
+  ID: 23516
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localServiceNetworkRestricted -s WFDSConMgrSvc'
+  Context: 'C:\Windows\system32\svchost.exe -k localServiceNetworkRestricted -s WFDSConMgrSvc'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-4767:
+  ID: 4767
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -s BTAGService'
+  Context: 'C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -s BTAGService'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-10375:
+  ID: 10375
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p -s NcbService'
+  Context: 'Win10:1903:Network Connection Broker'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-31462:
+  ID: 31462
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localServiceNetworkRestricted'
+  Context: 'Windows: Network services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-20939:
+  ID: 20939
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localServiceAndNoImpersonation -s SensrSvc'
+  Context: 'C:\Windows\system32\svchost.exe -k localServiceAndNoImpersonation -s SensrSvc'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-369:
+  ID: 369
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localServiceAndNoImpersonation -p -s SSDPSRV'
+  Context: 'Windows:SSDP [ https://en.wikipedia.org/wiki/Simple_Service_Discovery_Protocol ]'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-16875:
+  ID: 16875
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localServiceNoNetwork'
+  Context: 'C:\Windows\system32\svchost.exe -k localServiceNoNetwork'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-4567:
+  ID: 4567
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -p -s WPDBusEnum'
+  Context: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -p -s WPDBusEnum'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-15255:
+  ID: 15255
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -p -s fhsvc'
+  Context: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -p -s fhsvc'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-7756:
+  ID: 7756
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -s DeviceAssociationService'
+  Context: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -s DeviceAssociationService'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-31617:
+  ID: 31617
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -s NcbService'
+  Context: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -s NcbService'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-4197:
+  ID: 4197
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -s SensorService'
+  Context: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -s SensorService'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-20798:
+  ID: 20798
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -s TabletInputService'
+  Context: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -s TabletInputService'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-27491:
+  ID: 27491
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -s UmRdpService'
+  Context: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -s UmRdpService'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-28825:
+  ID: 28825
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -s WPDBusEnum'
+  Context: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -s WPDBusEnum'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-29919:
+  ID: 29919
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -p -s NgcSvc'
+  Context: 'Microsoft:Passport'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-27492:
+  ID: 27492
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localServiceNetworkRestricted -p -s NgcCtnrSvc'
+  Context: 'Microsoft:Passport Container'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-8298:
+  ID: 8298
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localServiceAndNoImpersonation -s SCardSvr'
+  Context: 'C:\Windows\system32\svchost.exe -k localServiceAndNoImpersonation -s SCardSvr'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-28775:
+  ID: 28775
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -p -s wuauserv'
+  Context: 'C:\Windows\system32\svchost.exe -k netsvcs -p -s wuauserv'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-2173:
+  ID: 2173
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\System32\svchost.exe -k netsvcs -p -s SessionEnv'
+  Context: 'Windows:Remote desktop configuration'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-18175:
+  ID: 18175
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted -s WdiSystemHost'
+  Context: 'Windows: Diagnostic System Host [ http://www.blackviper.com/windows-services/diagnostic-system-host/ ]'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-25297:
+  ID: 25297
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\System32\svchost.exe -k localSystemNetworkRestricted -p -s WdiSystemHost'
+  Context: 'Windows: Diagnostic System Host [ http://www.blackviper.com/windows-services/diagnostic-system-host/ ]'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-14223:
+  ID: 14223
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted'
+  Context: 'Windows'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-2037:
+  ID: 2037
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -p -s wlidsvc'
+  Context: 'Windows: Windows Live Sign-In Assistant [ https://www.howtogeek.com/howto/30348/what-are-wlidsvc.exe-and-wlidsvcm.exe-and-why-are-they-running/ ]'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-22470:
+  ID: 22470
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -p -s ncaSvc'
+  Context: 'Windows: Network Connectivity Assistant [ http://www.blackviper.com/windows-services/network-connectivity-assistant/ ]'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-17853:
+  ID: 17853
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -s BDESVC'
+  Context: 'Windows:Network: BitLocker Drive Encryption'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-13938:
+  ID: 13938
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\System32\svchost.exe -k netsvcs -p -s BDESVC'
+  Context: 'Microsoft:Win10:1903:Network: BitLocker Drive Encryption'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-14813:
+  ID: 14813
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -p -s BITS'
+  Context: 'Windows:Network: Background Intelligent File Transfer (BITS)'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-21847:
+  ID: 21847
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -s BITS'
+  Context: 'Windows:Network: Background Intelligent File Transfer (BITS)'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-19915:
+  ID: 19915
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -s CertPropSvc'
+  Context: 'C:\Windows\system32\svchost.exe -k netsvcs -s CertPropSvc'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-28731:
+  ID: 28731
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -s DsmSvc'
+  Context: 'C:\Windows\system32\svchost.exe -k netsvcs -s DsmSvc'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-3779:
+  ID: 3779
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -p -s Appinfo'
+  Context: 'C:\Windows\system32\svchost.exe -k netsvcs -p -s Appinfo'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-28458:
+  ID: 28458
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -s Gpsvc'
+  Context: 'Windows:Network: Group Policy'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-29827:
+  ID: 29827
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -s ProfSvc'
+  Context: 'Windows: Network services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-16040:
+  ID: 16040
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -s SENS'
+  Context: 'Windows: Network services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-9998:
+  ID: 9998
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -s SessionEnv'
+  Context: 'Windows: Network services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-21306:
+  ID: 21306
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -s Themes'
+  Context: 'Windows: Network services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-26526:
+  ID: 26526
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs -s Winmgmt'
+  Context: 'Windows: Windows Management Instrumentation (WMI)'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-1689:
+  ID: 1689
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs'
+  Context: 'Windows: Network services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-23187:
+  ID: 23187
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k networkService -p -s DoSvc'
+  Context: 'C:\Windows\system32\svchost.exe -k networkService -p -s DoSvc'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-29549:
+  ID: 29549
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k networkService -s Dnscache'
+  Context: 'Windows:Network: DNS caching, other uses'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-32760:
+  ID: 32760
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k networkService -s LanmanWorkstation'
+  Context: 'Windows:Network: "Workstation" service, used for SMB file-sharing connections and RDP'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-10585:
+  ID: 10585
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k networkService -s NlaSvc'
+  Context: 'Windows:Network: Network Location Awareness'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-7670:
+  ID: 7670
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k networkService -s TermService'
+  Context: 'Windows:Network: Terminal Services (RDP)'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-13768:
+  ID: 13768
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k networkService'
+  Context: 'Windows: Network services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-11347:
+  ID: 11347
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k networkService -p'
+  Context: 'Windows: Network services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-16048:
+  ID: 16048
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k networkServiceNetworkRestricted'
+  Context: 'Windows: Network services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-25031:
+  ID: 25031
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k rPCSS'
+  Context: 'Windows Services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-31571:
+  ID: 31571
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k secsvcs'
+  Context: 'C:\Windows\system32\svchost.exe -k secsvcs'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-19409:
+  ID: 19409
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k swprv'
+  Context: 'Microsoft:Software Shadow Copy Provider'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-25509:
+  ID: 25509
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k unistackSvcGroup'
+  Context: 'Windows 10'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-18264:
+  ID: 18264
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k utcsvc'
+  Context: 'Windows Services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-10701:
+  ID: 10701
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k wbioSvcGroup'
+  Context: 'Windows Services'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-13360:
+  ID: 13360
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k werSvcGroup'
+  Context: 'Windows: ErrorReporting'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-10771:
+  ID: 10771
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k wusvcs -p -s WaaSMedicSvc'
+  Context: 'Windows: Update Medic Service [ https://www.thewindowsclub.com/windows-update-medic-service ]'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-18272:
+  ID: 18272
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\System32\svchost.exe -k wsappx -p -s ClipSVC'
+  Context: 'Windows:Apps: Client License Service'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-9232:
+  ID: 9232
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k wsappx -p -s AppXSvc'
+  Context: 'Windows:Apps: AppX Deployment Service'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-24515:
+  ID: 24515
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k wsappx -s ClipSVC'
+  Context: 'Windows:Apps: Client License Service'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-29938:
+  ID: 29938
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k wsappx'
+  Context: 'Windows:Apps [ https://www.howtogeek.com/320261/what-is-wsappx-and-why-is-it-running-on-my-pc/ ]'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-9809:
+  ID: 9809
+  TargetField: 'CommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\deviceenroller.exe /c /AutoEnrollMDM'
+  Context: 'Windows: AzureAD device enrollment agent'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-11548:
+  ID: 11548
+  TargetField: 'CommandLine'
+  Condition: 'contains'
+  Pattern: '\Machine\Scripts\Startup\ipamprovisioning.ps1'
+  Context: ' Windows IP Address Management (IPAM)'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-32021:
+  ID: 32021
+  TargetField: 'CommandLine'
+  Condition: 'begin with'
+  Pattern: '"C:\Windows\system32\wermgr.exe" "-queuereporting_svc" '
+  Context: 'Windows:Windows error reporting/telemetry'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-12511:
+  ID: 12511
+  TargetField: 'CommandLine'
+  Condition: 'begin with'
+  Pattern: 'C:\Windows\system32\wbem\wmiprvse.exe -Embedding'
+  Context: 'Windows: WMI provider host'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-703:
+  ID: 703
+  TargetField: 'CommandLine'
+  Condition: 'begin with'
+  Pattern: 'C:\Windows\system32\wbem\wmiprvse.exe -secured -Embedding'
+  Context: 'Windows: WMI provider host'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-27276:
+  ID: 27276
+  TargetField: 'CommandLine'
+  Condition: 'begin with'
+  Pattern: '"C:\Program Files (x86)\Microsoft\Edge Dev\Application\msedge.exe" --type='
+  Context: '"C:\Program Files (x86)\Microsoft\Edge Dev\Application\msedge.exe" --type='
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-31182:
+  ID: 31182
+  TargetField: 'CommandLine'
+  Condition: 'begin with'
+  Pattern: 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngen.exe'
+  Context: 'Microsoft:DotNet'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-25794:
+  ID: 25794
+  TargetField: 'CommandLine'
+  Condition: 'begin with'
+  Pattern: 'C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\Ngen.exe'
+  Context: 'Microsoft:DotNet'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-29667:
+  ID: 29667
+  TargetField: 'CommandLine'
+  Condition: 'begin with'
+  Pattern: 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\ngentask.exe'
+  Context: 'Microsoft:DotNet'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-11662:
+  ID: 11662
+  TargetField: 'CommandLine'
+  Condition: 'begin with'
+  Pattern: 'C:\WINDOWS\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe'
+  Context: 'Microsoft:DotNet'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-5338:
+  ID: 5338
+  TargetField: 'CommandLine'
+  Condition: 'begin with'
+  Pattern: '"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type='
+  Context: 'Google:Chrome: massive command-line arguments'
+  Source: 'github.com/Neo23x0/sysmon-config'
+CommandLine-31617:
+  ID: 31617
+  TargetField: 'CommandLine'
+  Condition: 'begin with'
+  Pattern: '"C:\Program Files\Google\Chrome\Application\chrome.exe" --type='
+  Context: 'Google:Chrome: massive command-line arguments'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentCommandLine-104:
+  ID: 104
+  TargetField: 'ParentCommandLine'
+  Condition: 'is'
+  Pattern: 'C:\windows\system32\wermgr.exe -queuereporting'
+  Context: 'Windows:Windows error reporting/telemetry'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentCommandLine-29664:
+  ID: 29664
+  TargetField: 'ParentCommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k netsvcs'
+  Context: 'Windows: Network services: Spawns Consent.exe'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentCommandLine-10007:
+  ID: 10007
+  TargetField: 'ParentCommandLine'
+  Condition: 'is'
+  Pattern: 'C:\Windows\system32\svchost.exe -k localSystemNetworkRestricted'
+  Context: 'Windows'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentCommandLine-27845:
+  ID: 27845
+  TargetField: 'ParentCommandLine'
+  Condition: 'begin with'
+  Pattern: '%%SystemRoot%%\system32\csrss.exe ObjectDirectory=\Windows'
+  Context: 'Windows:CommandShell: Triggered when programs use the command shell, but doesnt provide attribution for what caused it'
+  Source: 'github.com/Neo23x0/sysmon-config'
+ParentCommandLine-30145:
+  ID: 30145
+  TargetField: 'ParentCommandLine'
+  Condition: 'begin with'
+  Pattern: 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe'
+  Context: 'C:\Windows\Microsoft.NET\Framework64\v4.0.30319\ngentask.exe'
+  Source: 'github.com/Neo23x0/sysmon-config'
